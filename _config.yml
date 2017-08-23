@@ -8,3 +8,4 @@ gatekeeper_url: http://poole-oauth-staging.herokuapp.com
 exclude:
 - .gitignore
 - README.md
+theme: jekyll-theme-modernist
